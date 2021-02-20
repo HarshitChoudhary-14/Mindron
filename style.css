@@ -1,0 +1,28 @@
+.bc{
+    background-color: rgb(18, 34, 53);
+}
+.bc1{
+    background-image: url("http://wp2.ourwpdemo.com/mindron/wp-content/uploads/2018/02/1.jpg");
+    
+    background-size: cover;
+}
+.bc2{
+    background-image: url("http://wp2.ourwpdemo.com/mindron/wp-content/uploads/2018/02/2.jpg");
+    background-size: cover;
+    
+}
+.bc3{
+    background-color: rgb(229, 174, 88);
+}
+.bc4{
+    background-color: rgb(20,39,65);
+}
+.bc5{
+    background-color: #fffafa;
+}
+.bc6{
+    background-image: url(http://wp2.ourwpdemo.com/mindron/wp-content/uploads/2018/02/3.jpg);
+}
+.bc7{
+    background-color: #000;
+}
